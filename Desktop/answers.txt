@@ -1,0 +1,9 @@
+Ex.5:
+
+1. A. Anyone has access to the machine.
+   B. You can access the entire machine. 
+   C. You can take any data.
+   D. You can change any data. 
+   Authentication, limitation and backup. 
+2. If the system recieves less bits than it sends, it might indicate   	  an unlegitimate action.  
+
